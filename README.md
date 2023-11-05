@@ -36,7 +36,7 @@ customers in their system and how their ordering behaviors differ.
 + Scipy
 
 ## Final Report
-[Final Report](https://github.com/dianndp/online-grocery-store-python-project/raw/main/04%20Final%20Report/Final%20report.xlsx)
+[Final Report](https://github.com/dianndp/online-grocery-store-python-project/raw/main/04%20Final%20Report/Instacart%20report.xlsx)
 
 ## Data
 Was provided by the CareerFoundry course.
