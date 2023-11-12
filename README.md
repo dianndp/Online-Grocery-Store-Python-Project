@@ -2,6 +2,8 @@
 
 
 # Instacart Grocery Basket Analysis
+Analyzed by: Diana Postica
+##
 
 ## Project Deliverables
 + Jupyter Notebooks with a step-by-step analysis of data.
